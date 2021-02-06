@@ -1,4 +1,4 @@
-import fibonacci from '../../numbers/fibonacci';
+import fibonacci from '../../../memoization/numbers/fibonacci';
 
 describe('fibonacci', () => {
     test('should return the fibonacci sequence', () => {

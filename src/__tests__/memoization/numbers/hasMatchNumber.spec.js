@@ -1,4 +1,4 @@
-import hasMatchNumber from '../../numbers/hasMatchNumber';
+import hasMatchNumber from '../../../memoization/numbers/hasMatchNumber';
 
 describe('hasMatchNumber', () => {
     test('should return if the set of numbers can result in target', () => {

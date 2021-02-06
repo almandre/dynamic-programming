@@ -1,4 +1,4 @@
-import getMatchStrings from '../../strings/getMatchStrings';
+import getMatchStrings from '../../../memoization/strings/getMatchStrings';
 
 describe('getMatchStrings', () => {
     test('should return the ways array that the set of prefixes constructs the target', () => {

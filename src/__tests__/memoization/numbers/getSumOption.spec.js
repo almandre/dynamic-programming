@@ -1,4 +1,4 @@
-import getSumOption from '../../numbers/getSumOption';
+import getSumOption from '../../../memoization/numbers/getSumOption';
 
 describe('getSumOption', () => {
     test('should return one of the set of numbers that result in target', () => {

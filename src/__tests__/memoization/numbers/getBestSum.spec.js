@@ -1,4 +1,4 @@
-import getBestSum from '../../numbers/getBestSum';
+import getBestSum from '../../../memoization/numbers/getBestSum';
 
 describe('getBestSum', () => {
     test('should return the shortest set of numbers that result in target', () => {

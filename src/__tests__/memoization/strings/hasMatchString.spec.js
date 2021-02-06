@@ -1,4 +1,4 @@
-import hasMatchString from '../../strings/hasMatchString';
+import hasMatchString from '../../../memoization/strings/hasMatchString';
 
 describe('hasMatchString', () => {
     test('should return if the prefixes combination construct the target', () => {

@@ -1,4 +1,4 @@
-import countMatchStrings from '../../strings/countMatchStrings';
+import countMatchStrings from '../../../memoization/strings/countMatchStrings';
 
 describe('countMatchStrings', () => {
     test('should return the ways number that the set of prefixes constructs the target', () => {

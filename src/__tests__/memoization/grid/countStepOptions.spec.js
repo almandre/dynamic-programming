@@ -1,4 +1,4 @@
-import countStepOptions from '../../grid/countStepOptions';
+import countStepOptions from '../../../memoization/grid/countStepOptions';
 
 describe('countStepOptions', () => {
     test('should return all the options to reach the destination', () => {
